@@ -11,15 +11,18 @@ Temu Redesign
 - Group: PixelCraft
 
 ## Team Members
-| Name | Role |
-|RICHARD EYRAM DZANDU|Project Lead / Coordinator/UI Designer|
-|RICHMOND KWEKU KORSAH|Interaction Designer / Prototyper|
-|ETORNAM KOBLA GBAMIDOH QUASHIGAH|UX Researcher|
-|NII LARTE ISHMAILA LARTEY|UX / Information Architect|
-|AKANYA STEPHEN WILLIAMSON |Usability Testing Lead|
-|OPOKU OWUSU BONSU DAVID|Accessibility & Content Specialist|
-|DANIEL ANKAMAH|Documentation & Presentation Lead|
-|STEPHEN DOE SUMAGBO|Project Lead / Coordinator|
+## Team Members
+
+| Name | Student ID | Role |
+|------|------------|------|
+| RICHARD EYRAM DZANDU | | Project Lead / Coordinator / UI Designer |
+| RICHMOND KWEKU KORSAH | | Interaction Designer / Prototyper |
+| ETORNAM KOBLA GBAMIDOH QUASHIGAH | | UX Researcher |
+| NII LARTE ISHMAILA LARTEY | | UX / Information Architect |
+| AKANYA STEPHEN WILLIAMSON | | Usability Testing Lead |
+| OPOKU OWUSU BONSU DAVID | | Accessibility & Content Specialist |
+| DANIEL ANKAMAH | | Documentation & Presentation Lead |
+| STEPHEN DOE SUMAGBO | | Assistant Project Lead / Coordinator |
 
 
 ## Project Overview
